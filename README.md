@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <img width='50' height='50' title='webpack' style='margin-left:15px;' src='skill/webpack.png' />
 <img width='50' height='50' title='vite' style='margin-left:15px;' src='skill/vite.png' />
 <img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/vue.png' />
-<img width='50' height='50' title='vue' style='margin-left:15px;' src='skill/uni.png' />
+<img width='50' height='50' title='uniapp' style='margin-left:15px;' src='skill/uni.png' />
 <img width='40' height='50' title='pinia' style='margin-left:15px;' src='skill/pinia.png' />
 <img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
-<img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/unocss.png' />
+<img width='50' height='50' title='unocss' style='margin-left:15px;' src='skill/unocss.png' />
 <img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
 
 
